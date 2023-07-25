@@ -29,7 +29,7 @@ This project implements a Smart Plant Monitoring System using ESP8266. It reads 
 
 - If you encounter any issues, double-check the wiring connections and ensure that the libraries are properly installed.
 - Make sure the Wi-Fi network credentials and server/cloud endpoint are correct.
-- Refer to the comments in the code for more information and troubleshooting tips.
+
 
 ## Credits
 
